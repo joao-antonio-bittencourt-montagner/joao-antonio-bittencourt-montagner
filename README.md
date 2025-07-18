@@ -1,4 +1,4 @@
-## 👋 Contact and More About Me
+## 👋 Contact and more about me
 <!--
 Hi! My name is João and I am a Java developer.
 
