@@ -8,9 +8,9 @@ My name is João and I am a Java developer.
 - 📫 How to reach me: joaoantonio.b.montagner@gmail.com
 - 👤 Pronouns: he/him
 
-  Linguages
-- 🗣️ Fluent in Portuguese
-- 🗣️ Advanced English
+  🗣️ Linguages
+- Portuguese
+- English
 
 <div>
   <a href="https://beacons.ai/joao-antonio-bittencourt-montagner">
