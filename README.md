@@ -10,8 +10,8 @@ My name is João and I am a Java developer.
 
 
 🗣️ Linguages
-- Portuguese
-- English
+- Portuguese 🇧🇷 - 🇵🇹
+- English 🇺🇸
 
 <div>
   <a href="https://beacons.ai/joao-antonio-bittencourt-montagner">
