@@ -9,3 +9,17 @@ My name is João and I am a Java developer.
 - 👤 Pronouns: he/him
 - 🗣️ Fluent in Portuguese and advanced English
 
+<div>
+  <a href="https://beacons.ai/joao-antonio-bittencourt-montagner">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-antonio-bittencourt-montagner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-antonio-bittencourt-montagner&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
+</div>
+
+          
