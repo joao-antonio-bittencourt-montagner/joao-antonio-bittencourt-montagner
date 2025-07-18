@@ -7,7 +7,10 @@ My name is João and I am a Java developer.
 - 💻 Experience with SQL, Java, Python, and HTML
 - 📫 How to reach me: joaoantonio.b.montagner@gmail.com
 - 👤 Pronouns: he/him
-- 🗣️ Fluent in Portuguese and advanced English
+
+  Linguages
+- 🗣️ Fluent in Portuguese
+- 🗣️ Advanced English
 
 <div>
   <a href="https://beacons.ai/joao-antonio-bittencourt-montagner">
