@@ -8,7 +8,8 @@ My name is João and I am a Java developer.
 - 📫 How to reach me: joaoantonio.b.montagner@gmail.com
 - 👤 Pronouns: he/him
 
-  🗣️ Linguages
+
+🗣️ Linguages
 - Portuguese
 - English
 
