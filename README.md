@@ -6,12 +6,13 @@ My name is João and I am a Java developer.
 - 🌱 I’m currently learning Java and more about linux
 - 💻 Experience with SQL, Java, Python, and HTML
 - 📫 How to reach me: joaoantonio.b.montagner@gmail.com
-- 👤 Pronouns: he/him
 
 
+<br>
 🗣️ Linguages
 - Portuguese 🇧🇷 - 🇵🇹
 - English 🇺🇸
+<br>
 
  ##
 <div>
@@ -28,7 +29,7 @@ My name is João and I am a Java developer.
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
- ##
+
 <div>
   <a href="https://beacons.ai/joao-antonio-bittencourt-montagner">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-antonio-bittencourt-montagner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
