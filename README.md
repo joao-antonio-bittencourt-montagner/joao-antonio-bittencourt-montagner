@@ -10,8 +10,7 @@ My name is João and I am a Java developer.
 
 <br>
 🗣️ Linguages
-- Portuguese 🇧🇷 - 🇵🇹
-- English 🇺🇸
+- Portuguese 🇧🇷 - 🇵🇹 || English 🇺🇸
 <br>
 
  ##
